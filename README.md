@@ -79,7 +79,7 @@ bash train.sh
 
 ## 结果示例
 
-![loss curve](./results/run_001/loss_curve.png)
+![loss curve](./results/run_000/loss_curve.png)
 
 ---
 
